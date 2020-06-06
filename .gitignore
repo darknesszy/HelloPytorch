@@ -9,3 +9,5 @@ pyvenv.cfg
 
 # Resources
 MNIST/
+PetImages/
+*.npy

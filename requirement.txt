@@ -23,6 +23,7 @@ nbconvert==5.6.1
 nbformat==5.0.6
 notebook==6.0.3
 numpy==1.18.4
+opencv-python==4.2.0.34
 packaging==20.4
 pandocfilters==1.4.2
 parso==0.7.0
@@ -44,6 +45,7 @@ testpath==0.4.4
 torch==1.5.0
 torchvision==0.6.0
 tornado==6.0.4
+tqdm==4.46.1
 traitlets==4.3.3
 wcwidth==0.1.9
 webencodings==0.5.1
